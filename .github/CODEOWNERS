@@ -9,5 +9,5 @@
 /encodings/*    @bogdandrutu
 /metrics/*      @bogdandrutu
 /stats/*        @bogdandrutu
-/trace/*        @bogdandrutu
+/trace/*        @bogdandrutu @SergeyKanzhelev
 /utils/*        @bogdandrutu
